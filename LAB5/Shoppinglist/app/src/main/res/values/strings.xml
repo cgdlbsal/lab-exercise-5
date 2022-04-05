@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="activity2_name">Items</string>
+    <string name="cake">Cake</string>
+    <string name="rice">Rice</string>
+    <string name="apples">Apples</string>
+    <string name="bread">Bread</string>
+    <string name="mango">Mango</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="carrot">Carrot</string>
+    <string name="ginger">Ginger</string>
+    <string name="dairy_milk">Dairy Milk</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="add_item">Add Item</string>
+    <string name="location">kanchanbari biratnagar</string>
+    <string name="get_location">Get Location</string>
+</resources>
